@@ -33,13 +33,13 @@ n33.co @n33co dribbble.com/n33
 
 Credits:
 * Demo Images:
-  * Unsplash (unsplash.com)
+  * Unsplash (http://unsplash.com)
 * Icons:
-  * Font Awesome (fortawesome.github.com/Font-Awesome)
+  * Font Awesome (http://fortawesome.github.com/Font-Awesome)
 
 * Other:
-  * jQuery (jquery.com)
+  * jQuery (http://jquery.com)
   * html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-  * CSS3 Pie (css3pie.com)
-  * background-size polyfill (github.com/louisremi)
-  * skel (getskel.com)
+  * CSS3 Pie (http://css3pie.com)
+  * background-size polyfill (https://github.com/louisremi)
+  * skel (http://getskel.com)
